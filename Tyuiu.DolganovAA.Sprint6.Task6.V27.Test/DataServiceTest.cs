@@ -1,4 +1,4 @@
-namespace Tyuiu.DolganovAA.Sprint6.Task6.V27.Test
+  namespace Tyuiu.DolganovAA.Sprint6.Task6.V27.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -8,4 +8,4 @@ namespace Tyuiu.DolganovAA.Sprint6.Task6.V27.Test
         {
         }
     }
-}
+} 
