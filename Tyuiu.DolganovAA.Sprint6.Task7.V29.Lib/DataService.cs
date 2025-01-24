@@ -21,7 +21,7 @@ namespace Tyuiu.DolganovAA.Sprint6.Task7.V29.Lib
                         continue;
                     }
                     matrix[i, j] = num;
-                }
+                } 
             }
 
             return matrix;

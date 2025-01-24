@@ -1,4 +1,4 @@
-namespace Tyuiu.DolganovAA.Sprint6.Task7.V29
+ namespace Tyuiu.DolganovAA.Sprint6.Task7.V29
 {
     internal static class Program
     {
